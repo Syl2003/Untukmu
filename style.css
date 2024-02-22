@@ -10,12 +10,12 @@ body {
 
 .main {
     width: 100%;
-    height: 100vb;
+    height: 100dvh;
     background-color: #fff;
 }
 
 .main .content {
-    height: 100vb;
+    height: 100dvh;
     display: none;
     align-items: center;
     justify-content: center;
